@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MyApplication",
+            "request": "launch",
+            "mainClass": "desafio.itau.springboot.MyApplication",
+            "projectName": "springboot"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-SpringbootApplication<springboot>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
